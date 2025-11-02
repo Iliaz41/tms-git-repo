@@ -3,3 +3,5 @@
 Project to improve my git skills
 
 Another added line
+
+New feature added
